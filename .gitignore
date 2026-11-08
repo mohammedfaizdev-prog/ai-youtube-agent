@@ -1,0 +1,19 @@
+@'
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+output/*
+!output/.gitkeep
+assets/audio/*
+assets/images/*
+*.log
+.DS_Store
+Thumbs.db
+'@ | Set-Content .gitignore
+pip_cache/
+
+pip_cache/

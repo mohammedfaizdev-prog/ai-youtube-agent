@@ -49,7 +49,7 @@ ai-youtube-agent/
 
 ### 1. Clone the repository
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mohammedfaizdev-prog/ai-youtube-agent.git
 
 ### 2. Create virtual environment
 

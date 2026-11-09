@@ -17,3 +17,27 @@ Thumbs.db
 pip_cache/
 
 pip_cache/
+
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Local AI models
+*.onnx
+*.onnx.json
+*.safetensors
+*.ckpt
+
+# Generated media
+assets/audio/*
+assets/images/*
+output/*
+
+# Keep project folders
+!assets/audio/.gitkeep
+!assets/images/.gitkeep
+!output/.gitkeep
+
+# Local configuration
+.env

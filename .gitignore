@@ -41,3 +41,6 @@ output/*
 
 # Local configuration
 .env
+
+# Hugging Face model cache
+hf_cache/
